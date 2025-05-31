@@ -10,6 +10,8 @@
 
   **🌐 Try Keyper FREE at [keyper.pinkpixel.dev](https://keyper.pinkpixel.dev)**
 
+  Keyper is free to use - FOREVER.
+
   [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg?style=for-the-badge)](https://keyper.pinkpixel.dev)
   [![Service Status](https://img.shields.io/badge/service-live-brightgreen.svg?style=for-the-badge)](https://keyper.pinkpixel.dev)
   [![Free Service](https://img.shields.io/badge/pricing-free-success.svg?style=for-the-badge)](https://keyper.pinkpixel.dev)
@@ -48,7 +50,7 @@
 Head over to **[keyper.pinkpixel.dev](https://keyper.pinkpixel.dev)** in your web browser
 
 ### **Step 2: Create Your Account**
-- Click "Sign Up" 
+- Click "Sign Up"
 - Enter your email and create a secure password
 - Verify your email (check your inbox!)
 
@@ -82,7 +84,7 @@ No downloads, no installations, no fuss. Just secure credential management that 
 ### **Credential Types We Support**
 - 🔑 **API Keys** - Store your service API keys safely
 - 👤 **Login Credentials** - Usernames, passwords, and URLs
-- 🤐 **Secrets** - Sensitive tokens and secret values  
+- 🤐 **Secrets** - Sensitive tokens and secret values
 - 🎫 **Tokens** - JWT tokens, bearer tokens, access tokens
 - 📜 **Certificates** - SSL certs, private keys, and more
 
@@ -134,7 +136,7 @@ Keyper works perfectly on:
 ## 🚫 What We DON'T Do
 
 - ❌ **No Ads** - Your credential vault stays clean
-- ❌ **No Tracking** - We don't spy on your usage patterns  
+- ❌ **No Tracking** - We don't spy on your usage patterns
 - ❌ **No Data Mining** - Your credentials are yours, period
 - ❌ **No Hidden Fees** - Free means free, forever
 - ❌ **No Bloatware** - Just the features you need
@@ -193,7 +195,7 @@ By using Keyper, you agree to our [Terms of Service](LICENSE). We've kept them s
 
 ---
 
-> **Made with ❤️ by Pink Pixel** ✨  
+> **Made with ❤️ by Pink Pixel** ✨
 > *Dream it, Pixel it*
 
 **Contact**: admin@pinkpixel.dev | **Website**: [pinkpixel.dev](https://pinkpixel.dev)
