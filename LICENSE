@@ -1,0 +1,173 @@
+# 🔐 Keyper - Terms of Service
+
+> **Effective Date**: May 30, 2025  
+> **Last Updated**: May 30, 2025
+
+## 📋 Service Agreement
+
+**Keyper** is a proprietary web-based credential management service provided by Pink Pixel ("we," "us," or "our"). By accessing or using Keyper at [keyper.pinkpixel.dev](https://keyper.pinkpixel.dev), you agree to be bound by these Terms of Service.
+
+## 🆓 Free Service Offering
+
+### **Service Availability**
+- Keyper is provided as a **free web service**
+- Access is granted through our hosted platform only
+- No software downloads, installations, or local hosting permitted
+- Service availability subject to maintenance and updates
+
+### **Account Requirements**
+- Valid email address required for registration
+- One account per user
+- Users responsible for account security
+- Must be 13+ years old to use service
+
+## 🔒 Intellectual Property Rights
+
+### **Proprietary Software**
+- Keyper is proprietary software owned by Pink Pixel
+- All source code, designs, and documentation are copyrighted
+- No rights to copy, modify, distribute, or reverse engineer
+- All Pink Pixel branding and trademarks are protected
+
+### **User Content**
+- You retain ownership of your stored credentials and data
+- You grant us license to process your data to provide the service
+- We do not claim ownership of your stored information
+- You are responsible for the legality of your stored content
+
+## 🛡️ Privacy & Security
+
+### **Data Protection**
+- All credentials encrypted at rest and in transit
+- Row Level Security (RLS) ensures data isolation
+- Regular security audits and monitoring
+- GDPR and privacy law compliance
+
+### **Data Usage**
+- We do not access, view, or share your stored credentials
+- Aggregated, anonymized usage statistics may be collected
+- No selling or sharing of personal information
+- Right to data export and deletion upon request
+
+### **Security Measures**
+- Industry-standard encryption (AES-256)
+- Secure authentication with Supabase
+- Regular backups and disaster recovery
+- Incident response procedures in place
+
+## ⚖️ Acceptable Use Policy
+
+### **Permitted Uses**
+- ✅ Store personal API keys, passwords, and credentials
+- ✅ Organize and manage digital authentication data
+- ✅ Use for legitimate business and personal purposes
+- ✅ Access through web interface only
+
+### **Prohibited Uses**
+- ❌ Store illegal, harmful, or malicious content
+- ❌ Attempt to reverse engineer or hack the service
+- ❌ Share accounts or access credentials
+- ❌ Use for spam, phishing, or fraudulent activities
+- ❌ Violate any applicable laws or regulations
+- ❌ Attempt to overwhelm or disrupt the service
+
+## 📞 Service Availability & Support
+
+### **Service Level**
+- Best-effort availability (targeting 99.9% uptime)
+- Maintenance windows announced in advance
+- No guaranteed response times (free service)
+- Support provided on best-effort basis
+
+### **Limitations**
+- Storage limits may apply per account
+- Rate limiting to prevent abuse
+- Feature limitations compared to enterprise solutions
+- Service provided "as-is" without warranties
+
+## 🚫 Disclaimers & Limitations
+
+### **Service Warranty**
+- Service provided "AS IS" without warranties
+- No guarantee of uninterrupted availability
+- Users responsible for backup of critical data
+- We are not liable for data loss or service interruptions
+
+### **Liability Limitations**
+- Maximum liability limited to $100 USD
+- No liability for indirect, consequential, or punitive damages
+- Users assume risk for storing sensitive information
+- Force majeure events exclude liability
+
+## 🔄 Service Changes & Termination
+
+### **Service Modifications**
+- We reserve the right to modify features and functionality
+- Terms of Service may be updated with notice
+- Pricing model may change (30-day notice for paid features)
+- Service discontinuation with 90-day notice
+
+### **Account Termination**
+- Users may delete accounts at any time
+- We may suspend accounts for Terms violations
+- Data export available for 30 days after termination
+- Deleted data cannot be recovered
+
+## 🌍 Legal Jurisdiction
+
+### **Governing Law**
+- Terms governed by laws of [Your Jurisdiction]
+- Disputes resolved through binding arbitration
+- Class action waivers apply where legally permitted
+- Severability clause for invalid provisions
+
+### **Contact for Legal Matters**
+- Email: legal@pinkpixel.dev
+- Response time: 7-14 business days
+
+## 📞 Contact Information
+
+### **General Support**
+- **Email**: support@pinkpixel.dev
+- **Website**: [pinkpixel.dev](https://pinkpixel.dev)
+- **Service URL**: [keyper.pinkpixel.dev](https://keyper.pinkpixel.dev)
+
+### **Privacy & Security**
+- **Email**: privacy@pinkpixel.dev
+- **Security Issues**: security@pinkpixel.dev
+- **Data Requests**: data@pinkpixel.dev
+
+### **Business Inquiries**
+- **Email**: admin@pinkpixel.dev
+- **Discord**: @sizzlebop
+- **Business Hours**: Monday-Friday, 9 AM - 5 PM EST
+
+## 🔄 Terms Updates
+
+We will notify users of material changes to these Terms through:
+- Email notification to registered users
+- Notice on the service website
+- In-app notifications when applicable
+
+Continued use after changes constitutes acceptance of new Terms.
+
+---
+
+## 📋 Quick Reference
+
+| **Service** | Keyper Credential Management |
+|-------------|------------------------------|
+| **Type** | Free Web Service |
+| **Access** | Web Browser Only |
+| **Support** | Best-Effort, Community |
+| **Data Export** | Available on Request |
+| **Account Deletion** | Self-Service |
+
+---
+
+> **Made with ❤️ by Pink Pixel** ✨  
+> *Dream it, Pixel it*
+
+**Copyright © 2025 Pink Pixel. All rights reserved.**
+
+*This document constitutes the complete agreement between Pink Pixel and users of the Keyper service. No other agreements, warranties, or representations apply unless explicitly stated in writing.*
